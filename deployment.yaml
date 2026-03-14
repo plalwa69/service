@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: odd-even
-          image: abdul2108/odd-even-app:1.0
+          image: username/odd-even-app:1.0
           ports:
             - containerPort: 8080
 
