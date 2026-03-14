@@ -42,6 +42,22 @@ public class OddEvenServer {
     }
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 //winget install Kubernetes.minikube
 //minikube start
 // docker login
