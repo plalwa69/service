@@ -59,6 +59,7 @@ public class OddEvenServer {
 
 
 //winget install Kubernetes.minikube
+// javac filename.java
 //minikube start
 // docker login
 // docker build -t username/imagename .
