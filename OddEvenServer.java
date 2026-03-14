@@ -42,8 +42,8 @@ public class OddEvenServer {
     }
 }
 
-
-
+//winget install Kubernetes.minikube
+//minikube start
 // docker login
 // docker build -t username/imagename .
 //docker push username/imagename
