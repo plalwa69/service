@@ -41,3 +41,16 @@ public class OddEvenServer {
         System.out.println("Server started on port 8080");
     }
 }
+
+
+
+// docker login
+// docker build -t username/imagename .
+//docker push username/imagename
+
+//kubectl apply -f deployment.yaml
+//kubectl apply -f service.yaml
+// kubectl get pods
+//kubectl get services
+// kubectl get nodes -o wide
+//minukube service odd-even-service
